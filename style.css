@@ -1,8 +1,24 @@
-*{
-  outline: 1px solid red;
+.bg-scotblue{
+  background-color: #001f7e;
 }
 
-.navbarshift{
+.navbar-shift{
   display: flex;
   justify-content: flex-end;
+  height: 20px;
+  background-image: linear-gradient(gray,#001f7e,gray);
+}
+
+.castle-adj{
+  height: 100px;
+  width: 100%;
+}
+
+.flag-adj{
+  height: 100px;
+  width: 100%;
+}
+
+.header-adj{
+  height: 10%;
 }
