@@ -1,6 +1,4 @@
-*{
-  outline: 1px solid red;
-}
+
 .bg-img-code{
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1h8OTU86kFeGB4POHYyM8IJuLO9UJGXoawSp4h4qdBlpVlPUU");
   background-size: cover;
@@ -43,6 +41,45 @@ min-height: 5vh;
   min-height: 60vh;
 }
 
-.icon-size{
-  font-size: 2rem;
+.usmcIcon{
+  height: 43px;
+  width: 43px;
+}
+
+.micronIcon{
+  height: 51px;
+  width: 57px;
+}
+
+.silmtnIcon{
+  height: 42px;
+  width: 56px;
+}
+.uopIcon{
+  height: 39px;
+  width: 31px;
+}
+
+.bsuIcon{
+  height: 44px;
+  width: 49px;
+}
+
+.cwIcon{
+  height: 42px;
+  width: 47px;
+}
+
+.f18Background{
+  background-image: url("https://amp.businessinsider.com/images/587e7cbff10a9a2a768b5951-750-563.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.surfaceMountBackground {
+  background-image: url("https://www.adcocircuits.com/blog/wp-content/uploads/2017/11/Surface-Mount-Technology-750x430.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
